@@ -1,2 +1,2 @@
-Experiment with rotate in coffeescriptCSS
-========================================
+Experiment with rotate in coffeescript & CSS
+============================================
